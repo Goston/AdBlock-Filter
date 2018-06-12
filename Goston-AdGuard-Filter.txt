@@ -1,0 +1,18 @@
+! Title: Goston AdGuard List
+! Version: 2018.06.12
+! Description: Filter List for AdGuard
+! Expires: 7 days (update frequency)
+! TimeUpdated: 2018-06-12T20:00:00+08:00
+! Homepage: https://github.com/Goston/AdBlock-Filter
+! ---------------------------------------------------------------------------
+@@||goston.net$document
+@@||netflix.com$document
+@@||apple.com$document
+||appledaily.com##script:contains(pageidle)
+||appledaily.com.tw/appledaily/images/adidle/js/jquery.backgroundSize.js^$empty
+||appledaily.com.tw/appledaily/images/adidle/css/Ted_fancybox.css^$empty
+||appledaily.com.tw/appledaily/images/adidle/js/Ted_plugin.js^$empty
+||appledaily.com.tw/appledaily/images/adidle/js/Ted_adidle.js^$empty
+||ltn.com.tw/js/idlepage.js^$empty
+
+

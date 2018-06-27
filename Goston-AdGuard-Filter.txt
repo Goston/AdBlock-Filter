@@ -19,6 +19,6 @@
 ||i2.bahamut.com.tw/index/DBF_zongzi.png
 ||i2.bahamut.com.tw/index/DBF_girl.png
 ||nownews.com^*/main_*.js$script
-
+||storm.mg$$div[id="now_playing"]
 
 

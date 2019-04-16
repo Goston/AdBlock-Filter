@@ -1,8 +1,8 @@
 ! Title: Goston AdGuard List
-! Version: 2019.03.15
+! Version: 2019.04.16
 ! Description: Filter List for AdGuard
 ! Expires: 7 days (update frequency)
-! TimeUpdated: 2019-03-15T10:25:00+08:00
+! TimeUpdated: 2019-04-16T09:20:00+08:00
 ! Homepage: https://github.com/Goston/AdBlock-Filter
 ! ---------------------------------------------------------------------------
 @@||goston.net$document
@@ -28,6 +28,7 @@ gamer.com.tw##DIV.iframe:nth-child(4) > IFRAME
 ||storm.mg$$div[id="now_playing"]
 ||mackeeper.com^$empty
 ithome.com.tw###cyber
+ithome.com.tw###fixbtmbanner
 newtalk.tw###dablewidget_y7428AXV > IFRAME
 news.google.com###yDmH0d > C-WIZ.zQTmif.SSPGKf.eejsDc:nth-child(4) > DIV.FVeGwb.CVnAc:first-child > DIV.ajwQHc.BL5WZb.RELBvb.fV8ehb:first-child > DIV.tsldL.Oc0wGc.RELBvb > ASIDE.Xw9d0.SbZred:last-child > C-WIZ > DIV.lBwEZb.BL5WZb.xP6mwf.zvAjsd:first-child > DIV.SXu5Cc.R7GTQ.keNKEd.j7vNaf
 gamer.com.tw##DIV.iframe:nth-child(2) > IFRAME

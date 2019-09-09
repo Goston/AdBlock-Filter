@@ -2,7 +2,7 @@
 ! Version: 2019.09.09
 ! Description: Filter List for AdGuard
 ! Expires: 7 days (update frequency)
-! TimeUpdated: 2019-09-09T11:50:00+08:00
+! TimeUpdated: 2019-09-09T12:00:00+08:00
 ! Homepage: https://github.com/Goston/AdBlock-Filter
 ! ---------------------------------------------------------------------------
 @@||goston.net$document
@@ -32,5 +32,6 @@ ithome.com.tw###fixbtmbanner
 ithome.com.tw###headerbar
 ithome.com.tw###skybanner
 ithome.com.tw##div.row-fluid:last-child > div.contents-wrap > div.content > div.side-extra:first-child
+ithome.com.tw##div.region.region-sidebar-second
 newtalk.tw###dablewidget_y7428AXV > IFRAME
 gamer.com.tw##DIV.iframe:nth-child(2) > IFRAME

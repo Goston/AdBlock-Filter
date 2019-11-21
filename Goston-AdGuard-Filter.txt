@@ -1,8 +1,8 @@
 ! Title: Goston AdGuard List
-! Version: 2019.09.09
+! Version: 2019.11.21
 ! Description: Filter List for AdGuard
 ! Expires: 7 days (update frequency)
-! TimeUpdated: 2019-09-09T12:00:00+08:00
+! TimeUpdated: 2019-11-21T13:00:00+08:00
 ! Homepage: https://github.com/Goston/AdBlock-Filter
 ! ---------------------------------------------------------------------------
 @@||goston.net$document
@@ -35,3 +35,18 @@ ithome.com.tw##div.row-fluid:last-child > div.contents-wrap > div.content > div.
 ithome.com.tw##div.region.region-sidebar-second
 newtalk.tw###dablewidget_y7428AXV > IFRAME
 gamer.com.tw##DIV.iframe:nth-child(2) > IFRAME
+appledaily.com#$#.mediabox { visibility: visible !important; }
+appledaily.com#$#.ndAritcle_headPic { visibility: visible !important; }
+appledaily.com#$#.ndArticle_margin { visibility: visible !important; }
+appledaily.com#$##playerVideo { display: block!important; }
+appledaily.com#$#.articulum { display: block!important; }
+appledaily.com#$#.mediabox { display: block!important; }
+appledaily.com#$#.ndAritcle_headPic { display: block!important; }
+appledaily.com#$#.ndArticle_margin { display: block!important; }
+appledaily.com#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/omo_currentuser[\s\S]*?div\.contentblock-block|isOMOureadEnable[\s\S]*?omo_currentuser\.isLoggedIn/.test(a.toString()))return b(a,c)};})();
+appledaily.com#%#AG_setConstant('paywall', 'noopFunc');
+appledaily.com.tw##.adblock_splash
+||img.appledaily.com.tw/pay/js/minisite/paywall.js
+||img.appledaily.com.tw/pay/js/paywall.*.js
+appledaily.com###div-GDPR-message
+appledaily.com###subscription_head_banner

@@ -1,8 +1,8 @@
 ! Title: Goston AdGuard List
-! Version: 2019.11.21
+! Version: 2020.05.05
 ! Description: Filter List for AdGuard
 ! Expires: 7 days (update frequency)
-! TimeUpdated: 2019-11-21T13:00:00+08:00
+! TimeUpdated: 2020-05-05T13:50:00+08:00
 ! Homepage: https://github.com/Goston/AdBlock-Filter
 ! ---------------------------------------------------------------------------
 @@||goston.net$document
@@ -12,6 +12,7 @@
 @@||member.cht.com.tw
 @@||jetpack.wordpress.com$document
 @@||foodpanda.com.tw$document
+@@||www.nintendo.co.jp^$important,document,~extension
 ||appledaily.com##script:contains(pageidle)
 ||appledaily.com.tw/appledaily/images/adidle/js/jquery.backgroundSize.js^$empty
 ||appledaily.com.tw/appledaily/images/adidle/css/Ted_fancybox.css^$empty

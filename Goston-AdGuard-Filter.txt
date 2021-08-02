@@ -2,7 +2,7 @@
 ! Version: 2021.08.02
 ! Description: Filter List for AdGuard
 ! Expires: 7 days (update frequency)
-! TimeUpdated: 2021-08-02T09:00:00+08:00
+! TimeUpdated: 2021-08-02T13:00:00+08:00
 ! Homepage: https://github.com/Goston/AdBlock-Filter
 ! ---------------------------------------------------------------------------
 @@||goston.net$document
@@ -20,7 +20,7 @@
 ||appledaily.com.tw/appledaily/images/adidle/js/Ted_adidle.js^$empty
 ||ltn.com.tw/js/idlepage.js^$empty
 ||ltn.com.tw###checkIE
-||ltn.com.tw##div.softPush_notification:last-child
+ltn.com.tw##div.softPush_notification:last-child
 ||techbang.com###idle-container
 www.gamer.com.tw#$#body { background: url(https://i2.bahamut.com.tw/html_bg.gif) center top #FFF !important; }
 gamer.com.tw##DIV.iframe:nth-child(4) > IFRAME

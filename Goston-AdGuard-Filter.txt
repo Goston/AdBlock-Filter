@@ -1,8 +1,8 @@
 ! Title: Goston AdGuard List
-! Version: 2021.10.07-01
+! Version: 2021.10.07-02
 ! Description: Filter List for AdGuard
 ! Expires: 7 days (update frequency)
-! TimeUpdated: 2021-10-07T14:20:00+08:00
+! TimeUpdated: 2021-10-07T14:30:00+08:00
 ! Homepage: https://github.com/Goston/AdBlock-Filter
 ! ---------------------------------------------------------------------------
 @@||goston.net$document
@@ -28,6 +28,7 @@ gamer.com.twm#$#div[class^="BA-billboard"] { height:0px !important; display: non
 gamer.com.twm##[id^="div-gpt-ad-"]
 gamer.com.tw##[id^="div-gpt-ad-"] > script
 gamer.com.tw###fuli-ad
+gamer.com.tw###flyRightBox
 ||i2.bahamut.com.tw/index/DBF_zongzi.png
 ||i2.bahamut.com.tw/index/DBF_girl.png
 ||nownews.com^*/main_*.js$script

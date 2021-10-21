@@ -21,6 +21,7 @@
 ||ltn.com.tw/js/idlepage.js^$empty
 ||ltn.com.tw###checkIE
 ltn.com.tw##.softPush_notification
+ltn.com.tw$$script[tag-content="softConfirm"]
 ||techbang.com###idle-container
 www.gamer.com.tw#$#body { background: url(https://i2.bahamut.com.tw/html_bg.gif) center top #FFF !important; }
 gamer.com.tw##DIV.iframe:nth-child(4) > IFRAME

@@ -2,7 +2,7 @@
 ! Version: 2024.04.09
 ! Description: Filter List for AdGuard
 ! Expires: 7 days (update frequency)
-! TimeUpdated: 2024-04-09T11:40:00+08:00
+! TimeUpdated: 2024-04-09T11:45:00+08:00
 ! Homepage: https://github.com/Goston/AdBlock-Filter
 ! ---------------------------------------------------------------------------
 @@||goston.net$document
@@ -92,4 +92,4 @@ m.youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-s
 m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
 m.youtube.com##ytm-single-column-watch-next-results-renderer ytm-thumbnail-overlay-time-status-renderer span:has-text(/^(0:\d\d|1:0\d)$/):upward(ytm-video-with-context-renderer)
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
-newtalk.tw##div.top-youtube:nth-child(2)
+newtalk.tw##div.top-youtube

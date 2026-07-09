@@ -2,7 +2,7 @@
 ! Version: 2027.07.09
 ! Description: Filter List for AdGuard
 ! Expires: 7 days (update frequency)
-! TimeUpdated: 2027-07-09T23:00:00+08:00
+! TimeUpdated: 2027-07-09T23:10:00+08:00
 ! Homepage: https://github.com/Goston/AdBlock-Filter
 ! ---------------------------------------------------------------------------
 @@||goston.net$document
@@ -105,3 +105,4 @@ newtalk.tw##div.top-youtube
 @@||*.gstatic.com^$important,document
 @@||tpc.googlesyndication.com^$important
 @@||ogads-pa.clients6.google.com^$important
+@@||google.com/maps^$important,document

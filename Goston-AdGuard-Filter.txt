@@ -1,8 +1,8 @@
 ! Title: Goston AdGuard List
-! Version: 2025.04.25
+! Version: 2027.07.09
 ! Description: Filter List for AdGuard
 ! Expires: 7 days (update frequency)
-! TimeUpdated: 2025-04-25T10:00:00+08:00
+! TimeUpdated: 2027-07-09T23:00:00+08:00
 ! Homepage: https://github.com/Goston/AdBlock-Filter
 ! ---------------------------------------------------------------------------
 @@||goston.net$document

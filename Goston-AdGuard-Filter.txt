@@ -2,7 +2,7 @@
 ! Version: 2027.07.09
 ! Description: Filter List for AdGuard
 ! Expires: 7 days (update frequency)
-! TimeUpdated: 2027-07-09T23:10:00+08:00
+! TimeUpdated: 2027-07-09T23:20:00+08:00
 ! Homepage: https://github.com/Goston/AdBlock-Filter
 ! ---------------------------------------------------------------------------
 @@||goston.net$document
@@ -95,14 +95,14 @@ m.youtube.com##ytm-single-column-watch-next-results-renderer ytm-thumbnail-overl
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 newtalk.tw##div.top-youtube
 @@||streetviewpixels-pa.googleapis.com^
-@@||lh3.googleusercontent.com^$important,document
-@@||geo0.ggpht.com^$important,document
-@@||geo1.ggpht.com^$important,document
-@@||geo2.ggpht.com^$important,document
-@@||geo3.ggpht.com^$important,document
-@@||maps.googleapis.com^$important,document
-@@||*.googleapis.com^$important,document
-@@||*.gstatic.com^$important,document
+@@||lh3.googleusercontent.com^$important
+@@||geo0.ggpht.com^$important
+@@||geo1.ggpht.com^$important
+@@||geo2.ggpht.com^$important
+@@||geo3.ggpht.com^$important
+@@||maps.googleapis.com^$important
+@@||*.googleapis.com^$important
+@@||*.gstatic.com^$important
 @@||tpc.googlesyndication.com^$important
 @@||ogads-pa.clients6.google.com^$important
-@@||google.com/maps^$important,document
+@@||google.com/maps^$important
